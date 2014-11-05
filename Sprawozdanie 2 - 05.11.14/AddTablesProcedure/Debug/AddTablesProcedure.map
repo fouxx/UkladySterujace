@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.52  C:\Users\fouxx\Documents\Atmel Studio\AddTwo\Sprawozdanie 1 - 29.10.14\AddTwo\AddTwo.asm Tue Nov 04 08:59:19 2014
+AVRASM ver. 2.1.52  C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\AddTablesProcedure.asm Wed Nov 05 08:42:06 2014
 
 
 EQU  SIGNATURE_000 0000001e
@@ -568,7 +568,13 @@ EQU  ACIaddr      00000024
 EQU  TWIaddr      00000026
 EQU  SPMRaddr     00000028
 EQU  INT_VECTORS_SIZE 0000002a
-EQU  size         00000018
+EQU  LEN          00000010
 DSEG tab1         00000060
-DSEG tab2         00000078
-CSEG cycle        0000000a
+DSEG tab2         00000070
+CSEG START        0000002a
+CSEG NO_IRQ       00000037
+CSEG DODAJ        00000038
+CSEG loopBegin    00000040
+CSEG bodyOfLoop   00000044
+CSEG innerCheck   00000042
+CSEG endOfLoop    00000051

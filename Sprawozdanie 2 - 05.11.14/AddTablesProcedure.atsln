@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{18226A42-8477-4023-8AD2-40C49DA407C9}") = "AddTablesProcedure", "AddTablesProcedure\AddTablesProcedure.asmproj", "{1528683E-86B8-42AE-B32B-F19B70301709}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1528683E-86B8-42AE-B32B-F19B70301709}.Debug|AVR.ActiveCfg = Debug|AVR
+		{1528683E-86B8-42AE-B32B-F19B70301709}.Debug|AVR.Build.0 = Debug|AVR
+		{1528683E-86B8-42AE-B32B-F19B70301709}.Release|AVR.ActiveCfg = Release|AVR
+		{1528683E-86B8-42AE-B32B-F19B70301709}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

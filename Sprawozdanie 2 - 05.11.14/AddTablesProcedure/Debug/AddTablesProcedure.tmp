@@ -1,0 +1,33 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega32"</DEVICE>
+ <WORKING_DIR>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Programs\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\AddTablesProcedure.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Programs\Atmel Studio 6.0\extensions\Atmel\AVRAssembler\2.1.51.64\AvrAssembler/Include\m32def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\Debug/AddTablesProcedure.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\Debug/AddTablesProcedure.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\Debug\AddTablesProcedure.map</FILE>
+  <FILE>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\Debug\AddTablesProcedure.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <tab1><FILE>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\AddTablesProcedure.asm</FILE><LINE>14</LINE></tab1>
+  <tab2><FILE>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\AddTablesProcedure.asm</FILE><LINE>15</LINE></tab2>
+  <START><FILE>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\AddTablesProcedure.asm</FILE><LINE>43</LINE></START>
+  <NO_IRQ><FILE>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\AddTablesProcedure.asm</FILE><LINE>66</LINE></NO_IRQ>
+  <DODAJ><FILE>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\AddTablesProcedure.asm</FILE><LINE>69</LINE></DODAJ>
+  <loopBegin><FILE>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\AddTablesProcedure.asm</FILE><LINE>88</LINE></loopBegin>
+  <bodyOfLoop><FILE>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\AddTablesProcedure.asm</FILE><LINE>94</LINE></bodyOfLoop>
+  <innerCheck><FILE>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\AddTablesProcedure.asm</FILE><LINE>91</LINE></innerCheck>
+  <endOfLoop><FILE>C:\Users\fouxx\Documents\Atmel Studio\AddTablesProcedure\AddTablesProcedure\AddTablesProcedure.asm</FILE><LINE>122</LINE></endOfLoop>
+ </LABELS>
+</ASSEMBLER_INFO>
