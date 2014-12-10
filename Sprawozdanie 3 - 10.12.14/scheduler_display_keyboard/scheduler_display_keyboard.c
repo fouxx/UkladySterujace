@@ -53,7 +53,7 @@ int main(void)
 	DISPLAY_STATE_MODE = 0b11111111;
 	DISPLAY_POWER_CONTROL = 0b11111111;
 	DISPLAY_STATE = DISPLAY_OFF;
-	setupTimer();
+	setup_timer();
 //	addTask(0, 100, time_inc, (void*)0); // working timer from 0.0 to 9999
 
 //	addTask(0, 5, time_inc, (void*)0); // please ignore: for testing purposes (on simulator)
